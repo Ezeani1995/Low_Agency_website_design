@@ -23,7 +23,7 @@
 
 .container {
   width: 95%;
-  max-width: 1200px;
+  max-width: 1100px;
   margin: 0 auto;
   overflow: hidden;
 }
@@ -505,6 +505,7 @@ header .header-inner nav .nav-btns a:nth-child(2) {
   height: 50px;
   display: flex;
   align-items: center;
+  width: 100%;
 }
 
 .footer .footer-inner .footer-right .footer-input input {
