@@ -804,4 +804,12 @@ header .header-inner nav .nav-btns a:nth-child(2) {
     text-align: center;
     margin-right: 0;
   }
+  
+  .footer .footer-inner .footer-right .footer-input input {
+  width: 85%;
+}
+
+.footer .footer-inner .footer-right .footer-input i {
+  width: 15%;
+}
 }
